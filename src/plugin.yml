@@ -1,0 +1,5 @@
+name: honorTop
+main: com.github.startzyp.mc.honorTop
+version: 1.0
+commands:
+  cjiu:

@@ -1,0 +1,13 @@
+Honor:
+  t1:
+    DisPlayer: "§e§l勇士成就"
+    explain: "这个勋章是杀死勇士BOSS得到的"
+    HonorValue: 500
+    permission: "Honor.yongshi"
+    Id: 50
+  t2:
+    DisPlayer: "§e§l飞机成就"
+    explain: "这个勋章是杀死勇士BOSS得到的"
+    HonorValue: 500
+    permission: "Honor.feiji"
+    Id: 50

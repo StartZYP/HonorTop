@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="HonorTop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HonorTop_jar</output-path>
+    <root id="root">
+      <element id="archive" name="HonorTop.jar">
+        <element id="module-output" name="HonorTop" />
+      </element>
+    </root>
+  </artifact>
+</component>
